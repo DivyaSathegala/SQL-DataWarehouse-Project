@@ -64,7 +64,7 @@ Scope: Focus on the latest dataset only; historisation of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-BI: Analytics & Reporting (Data Analysis)
+**BI: Analytics & Reporting (Data Analysis)**
 
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -100,7 +100,6 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
 
 
 🛡️ License

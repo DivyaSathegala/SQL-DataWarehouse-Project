@@ -12,7 +12,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 2. Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
-📖 Project Overview
+📖 **Project Overview**
 
 This project involves:
 
@@ -47,7 +47,7 @@ Notion: Get the Project Template from Notion
 
 Notion Project Steps: Access to All Project Phases and Tasks.
 
-🚀 Project Requirements
+🚀** Project Requirements**
 Building the Data Warehouse (Data Engineering)
 
 Objective
@@ -76,7 +76,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to docs/requirements.md.
 
-📂 Repository Structure
+📂 **Repository Structure**
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -101,8 +101,7 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
-☕ Stay Connected
-Let's stay in touch! Feel free to connect with me on the following platforms:
+
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
